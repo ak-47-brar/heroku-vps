@@ -1,5 +1,5 @@
 {
 	"name": "noVNC Debian",
 	"repository": "https://github.com/0x77dev/docker-novnc",
-	"stack" : "heroku-20"
+	"stack": "heroku-20"
 }
